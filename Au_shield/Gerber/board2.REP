@@ -1,0 +1,162 @@
+*************************************************************
+FileName = board2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : board2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : M1_BoardOutline
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : board2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : M1_BoardOutline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : board2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : M1_BoardOutline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : board2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : M1_BoardOutline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : board2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : M1_BoardOutline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : board2.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : M1_BoardOutline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : board2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : M1_BoardOutline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : board2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : M1_BoardOutline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
