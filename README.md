@@ -20,13 +20,9 @@ Documentation and tutorials are available on [https://mufpga.github.io/](https:/
 
 This repository contains the (optional) complementary electronics for MicroFPGA. Documentation for the electronics is available on the [project's website](https://mufpga.github.io/resource1_electronics.html).
 
-<!---
 
 ## Cite us
-
-Deschamps J, Kieser C, Hoess P, Deguchi T and Ries J, 
-
---->
+Joran Deschamps, Christian Kieser, Philipp Hoess, Takahiro Deguchi, Jonas Ries, "MicroFPGA: an affordable FPGA platform for microscope control",
+bioRxiv 2022.06.07.495178.
 
 The electronics was developed by Christian Kieser, EMBL (2020).
-
