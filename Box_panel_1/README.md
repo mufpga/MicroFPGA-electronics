@@ -7,7 +7,7 @@
 
 ## Content
 
-The first box panel is connected to the laser and PWM signals, as well as camera trigger input and the servos. The Servos DSUB9 is connected 
-to the servo distribution board (SDB).
+The first box panel is connected to the laser (EN) and PWM signals (POW), as well as camera trigger input and the servos. The lasers outputs can be used directly to trigger diode lasers. The servo DSUB9 is connected to the servo distribution board (SDB). The other DSUB9 connector can be used with the [LaserEngine](https://github.com/ries-lab/LaserEngine) electronics. Finally, both laser and PWM
+signals could be used as inputs to the AOTF conversion board in order to control an AOTF or an AOM.
 
 ![Box panel 1](Box_panel_1_soldered.jpg)
