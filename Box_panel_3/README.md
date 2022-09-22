@@ -9,5 +9,9 @@
 
 The third box panel is connected to the main power source and powers the other boards using different voltages.
 
+- [Altium project](Altium_project)
+- [Bill of materials](BOM)
+- [Gerber files](Gerber)
+- [Drill instructions](NC_Drill)
 
 ![Box panel 3](Box_panel_3_soldered.jpg)
