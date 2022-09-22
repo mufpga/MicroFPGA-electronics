@@ -7,7 +7,7 @@
 
 ## Content
 
-The third box panel is connected to the power source and powers the other boards using different voltages.
+The third box panel is connected to the main power source and powers the other boards using different voltages.
 
 
 ![Box panel 3](Box_panel_3_soldered.jpg)
