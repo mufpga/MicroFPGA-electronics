@@ -18,7 +18,18 @@ Documentation and tutorials are available on [https://mufpga.github.io/](https:/
 
 ## Content
 
-This repository contains the (optional) complementary electronics for MicroFPGA. Documentation for the electronics is available on the [project's website](https://mufpga.github.io/resource1_electronics.html).
+This repository contains the (optional) complementary electronics for MicroFPGA. Documentation for the electronics is available on the [project's website](https://mufpga.github.io/resource1_electronics.html) and in the papers.
+
+Design files are available for the following elements:
+- [Box](Box)
+- [Box panel 1](Box_panel_1)
+- [Box panel 2](Box_panel_2)
+- [Box panel 3](Box_panel_3)
+- [Analog conversion board (ACB)](Analog_conversion_board)
+- [Signal conversion board (SCB)](Signal_conversion_board)
+- [Custom FPGA shield](FPGA_shield)
+- [Servo distribution board (SDB)](Servo_distribution_board)
+- [AOTF board](AOTF_conversion_board)
 
 
 ## Cite us
