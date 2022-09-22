@@ -7,4 +7,7 @@
 
 ## Content
 
-The electronics box packages the different boards into a neat box with standard connectors.
+The electronics box packages the different boards into a neat box with standard connectors. It is 3D printed and the lid machined from transparent plastic.
+
+
+![Electronics box](Box.jpg)
