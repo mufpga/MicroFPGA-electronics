@@ -18,4 +18,4 @@ We used this board in addition to our electronics box in order to control AOTF/A
 - [Altium project](Altium_project)
 - [Bill of materials](BOM)
 - [Gerber files](Gerber)
-- [Drill instructions](NC Drill)
+- [Drill instructions](NC_Drill)
