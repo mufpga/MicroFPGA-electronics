@@ -14,3 +14,8 @@ The AOTF conversion board takes two TTL inputs per channels:
 The PWM signal is low-passed and the resulting analog output is multiplied by the TTL signal. The resulting output is a 5 V analog signal that can be switched on and off, and whose level is adjusted by changing the PWM input duty cycle.
 
 We used this board in addition to our electronics box in order to control AOTF/AOM, for instance with DPSS lasers.
+
+- [Altium project](Altium_project)
+- [Bill of materials](BOM)
+- [Gerber files](Gerber)
+- [Drill instructions](NC Drill)

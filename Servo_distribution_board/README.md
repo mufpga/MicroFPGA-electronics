@@ -1,6 +1,14 @@
-# Servomotor distribution board
 
-The servomotor distribution board is intended to be a hub for servomotor cables. Placed in the center of the microscope, we use it to drive several servomotors (back-focal plane lens, 3D lens, filter wheels...etc..), see [some of the elements presented here](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy). The flat cable from the DSUB9 is connected directly to a FPGA. It is simply screwed on a plastic board.
+<a href="https://mufpga.github.io/"><img src="https://raw.githubusercontent.com/mufpga/mufpga.github.io/main/img/logo_title.png" alt="Overview"/>
+
+</a>
+
+![version](https://img.shields.io/badge/version-3.1.0-blue)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
+## Content
+
+The servomotor distribution board (SDB) is intended to be a hub for servomotor cables. Placed in the center of the microscope, we use it to drive several servomotors (back-focal plane lens, 3D lens, filter wheels etc.), such as [the elements presented here](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy). The flat cable from the DSUB9 is connected directly to the elecontrics box. It is simply screwed on a plastic board.
 
 ![servomotor board](servo_board.JPG)
 
@@ -12,4 +20,4 @@ The project contains the following items:
 
 
 
-The board was designed by Ulf Matti (Ries lab, EMBL), and produced and tested by Christian Kieser (Electronics workshop, EMBL).
+The board was designed by Ulf Matti (Ries lab, EMBL).
