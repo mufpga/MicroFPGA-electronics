@@ -7,7 +7,7 @@
 
 ## Content
 
-The signal conversion board (SCB) features multiple bi-directional channels that scale up or down voltages in roder to ensure compatibility
+The signal conversion board (SCB) features multiple bi-directional channels that scale up or down voltages in order to ensure compatibility
 between the FPGA and devices connected to the electronics box. Two channels also include the possibility to low pass the PWM signals 
 from MicroFPGA to produce analog voltage ouputs.
 
