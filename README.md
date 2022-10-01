@@ -29,7 +29,7 @@ Design files are available for the following elements:
 - [Signal conversion board (SCB)](Signal_conversion_board)
 - [Custom FPGA shield](FPGA_shield)
 - [Servo distribution board (SDB)](Servo_distribution_board)
-- [AOTF board](AOTF_conversion_board)
+- [AOTF-CB board](AOTF_conversion_board)
 
 
 ## Cite us
