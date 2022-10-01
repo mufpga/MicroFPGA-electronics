@@ -34,5 +34,3 @@ Design files are available for the following elements:
 
 ## Cite us
 Joran Deschamps, Christian Kieser, Philipp Hoess, Takahiro Deguchi and Jonas Ries, "MicroFPGA: an affordable FPGA platform for microscope control", bioRxiv 2022.06.07.495178.
-
-The electronics was developed by Christian Kieser, EMBL (2020).
