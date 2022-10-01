@@ -8,7 +8,7 @@
 
 ## Content
 
-The servomotor distribution board (SDB) is intended to be a hub for servomotor cables. Placed in the center of the microscope, we use it to drive several servomotors (back-focal plane lens, 3D lens, filter wheels etc.), such as [the elements presented here](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy). The flat cable from the DSUB9 is connected directly to the elecontrics box. It is simply screwed on a plastic board.
+The servomotor distribution board (SDB) is intended to be a hub for servomotor cables. Placed in the center of the microscope, we use it to drive several servomotors (back-focal plane lens, 3D lens, filter wheels etc.), such as [the elements presented here](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy). The flat cable from the DSUB9 is connected directly to the electronics box. It is simply screwed on a plastic board.
 
 ![servomotor board](servo_board.JPG)
 
