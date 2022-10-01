@@ -9,7 +9,7 @@
 
 The custom FPGA shield can be plugged directly onto the Br shield (Alchitry) and facilitates the internal wiring of the electronics 
 box. It features all the default inputs of MicroFPGA. Note that we prefer stacking it on top of the Br shield to avoid damaging the 
-FPGA connectors.
+FPGA connectors and grant access to other FPGA pins that are unused by the custom shield.
 
 - [Altium project](Altium_project)
 - [Bill of materials](BOM)
