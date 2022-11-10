@@ -1,0 +1,197 @@
+Board Information Report
+Filename     : C:\SVN_neu\AA_SVN_cleaned_up_projects\3_FPGA_box_V2\AOTF_yiming_signal_conversion_4channels_V2\board.PcbDoc
+Date         : 10/10/2022
+Time         : 09:07:21
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 37.924mmx150mm
+    Components on board, 126
+count : 2
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 248
+    Connections routed, 248
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 236, 0, 636, 0, 0, 8, 0
+    Bottom Layer, 0, 0, 0, 141, 0, 0, 1, 0
+    M1_BoardOutline, 0, 0, 0, 4, 7, 0, 0, 0
+    Top Component Outline, 0, 0, 0, 8, 0, 0, 0, 0
+    Bottom Component Outline, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Courtyard, 0, 0, 0, 12, 0, 0, 0, 0
+    Mechanical 5, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 6, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 8, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 9, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 10, 0, 0, 0, 0, 0, 0, 0, 0
+    M11_text_topL, 0, 0, 0, 0, 0, 0, 0, 0
+    M12_titleBlock, 0, 0, 0, 34, 41, 0, 0, 0
+    M13_3D_topL, 8, 0, 0, 364, 0, 0, 0, 152
+    M14_3D_botL, 0, 0, 0, 0, 0, 0, 0, 0
+    M15_courtyard_topL, 0, 0, 0, 522, 0, 0, 0, 0
+    M16_courtyard_botL, 0, 0, 0, 0, 0, 0, 0, 0
+    Top 3D Body, 0, 0, 0, 8, 0, 0, 0, 2
+    Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Designator, 0, 0, 0, 0, 2, 0, 0, 0
+    Bottom Designator, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 43, 0, 0, 4992, 319, 1, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 102, 180, 0, 0, 0, 1, 0
+count : 32
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 180
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 7,298, 4708,23, 83%
+    Bottom Layer, 8,008, 5166,388, 91%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    3.5052mm, 4, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 236, 0
+    0.3mm, 0, 1
+    0.5mm, 0, 162
+    0.7112mm, 0, 17
+    1mm, 34, 0
+    1.1mm, 64, 0
+count : 6
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -0.2032mm, 4
+    0.2mm, 30
+    0.3mm, 69
+    0.4mm, 1
+    0.5mm, 160
+    0.5mm, 1
+    0.5588mm, 17
+count : 7
+
+Mid Layer Annular Ring Size, Count
+    -0.2032mm, 4
+    0.2mm, 30
+    0.3mm, 69
+    0.4mm, 1
+    0.5mm, 160
+    0.5mm, 1
+    0.5588mm, 17
+count : 7
+
+Bottom Layer Annular Ring Size, Count
+    -0.2032mm, 4
+    0.2mm, 30
+    0.3mm, 69
+    0.4mm, 1
+    0.5mm, 160
+    0.5mm, 1
+    0.5588mm, 17
+count : 7
+
+Pad Solder Mask, Count
+    0.1016mm, 338
+count : 1
+
+Pad Paste Mask, Count
+    0mm, 338
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 338
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 338
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 338
+count : 1
+
+Pad Relief Entries, Count
+    4, 338
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 180
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 180
+count : 1
+
+Track Width, Count
+    0.0087mm, 4540
+    0.05mm, 394
+    0.1mm, 520
+    0.127mm, 27
+    0.2mm, 411
+    0.254mm, 11
+    0.3556mm, 541
+    0.5mm, 41
+    0.762mm, 236
+count : 9
+
+Arc Line Width, Count
+    0.1mm, 8
+    0.25mm, 35
+    0.4mm, 8
+count : 3
+
+Arc Radius, Count
+    0.125mm, 35
+    0.2mm, 8
+    0.5mm, 8
+count : 3
+
+Arc Degrees, Count
+    360, 51
+count : 1
+
+Text Height, Count
+    0.8mm, 366
+    1.524mm, 2
+    3mm, 1
+count : 3
+
+Text Width, Count
+    0.15mm, 363
+    0.25mm, 3
+    0.254mm, 2
+    0.3mm, 1
+count : 4
+
+Net Track Width, Count
+    0.3556mm, 64
+count : 1
+
+Net Via Size, Count
+    1.27mm, 64
+count : 1

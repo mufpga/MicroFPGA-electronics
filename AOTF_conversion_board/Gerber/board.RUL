@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\SVN_neu\AA_SVN_cleaned_up_projects\3_FPGA_box_V2\AOTF_yiming_signal_conversion_4channels\board.PcbDoc
+DRC Rules Export File for PCB: C:\SVN_neu\AA_SVN_cleaned_up_projects\3_FPGA_box_V2\AOTF_yiming_signal_conversion_4channels_V2\board.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=8.00
 RuleKind=Clearance|RuleName=clearance_polygons|Scope=Board|Minimum=59.06
 RuleKind=Width|RuleName=Width_HC_class|Scope=Board|Minimum=60.00
