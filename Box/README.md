@@ -14,3 +14,5 @@ The electronics box packages the different boards into a neat box with standard 
 - [CAD files](CAD_files)
 
 ![Electronics box](Box.jpg)
+
+Photography credit: EMBL Photolab - Stuart Ingham.
