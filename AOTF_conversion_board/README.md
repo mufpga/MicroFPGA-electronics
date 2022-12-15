@@ -21,3 +21,21 @@ We used this board in addition to our electronics box in order to control AOTF/A
 - [Drill instructions](NC_Drill)
 
 ![AOTF-CB](AOTF-CB.jpg)
+
+
+## Channel configuration
+
+### Inputs
+- _analog in_: analog signal that can be switched on or of by the _enable in_ signal.
+- _PWM in_: PWM signal, which will be low-pass filtered by the board to generate an analog signal.
+- _enable in_: TTL signal used to switch on and off the analog signal (_analog in_ or low-pass filtered _PWM in_)
+
+> Important: inputs are either the analog or the PWM in, but not both simultaneously.
+
+### Settings
+- _PWM input_: voltage of the PWM input (if applicable), the output of the board is 5V and 3.3V inputs are rescaled.
+- _IN ?_: whether the input is _analog in_ or _PWM in_
+- _Enable signal ?_: whether the analog output is switched on on _HIGH_ or _LOW_ TTL.
+
+
+<img src="AOTF-CB_channel.jpg" width="600"/>
