@@ -17,3 +17,5 @@ The second box panel is connected to AU+ analog inputs (in the case of the Cu FP
 
 
 ![Box panel 2](Box_panel_2_soldered.jpg)
+
+Photography credit: EMBL Photolab - Stuart Ingham.
