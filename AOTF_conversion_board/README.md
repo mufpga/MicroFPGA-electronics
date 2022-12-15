@@ -30,7 +30,11 @@ We used this board in addition to our electronics box in order to control AOTF/A
 - _PWM in_: PWM signal, which will be low-pass filtered by the board to generate an analog signal.
 - _enable in_: TTL signal used to switch on and off the analog signal (_analog in_ or low-pass filtered _PWM in_)
 
-> Important: inputs are either the analog or the PWM in, but not both simultaneously.
+> __Important__: inputs are either the analog or the PWM in, but not both simultaneously.
+> Note: If you do not use the TTL input, you can set the _Enable signal ?_ to _low active_ in order to simply produce an analog signal.
+
+### Ouput
+- _out_: analog signal switched on/off following the TTL input.
 
 ### Settings
 - _PWM input_: voltage of the PWM input (if applicable), the output of the board is 5V and 3.3V inputs are rescaled.
