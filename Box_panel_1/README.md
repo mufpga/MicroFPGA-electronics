@@ -2,7 +2,7 @@
 
 </a>
 
-![version](https://img.shields.io/badge/version-3.1.0-blue)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)[![DOI](https://zenodo.org/badge/410023495.svg)](https://zenodo.org/badge/latestdoi/410023495)
+![version](https://img.shields.io/badge/version-3.1.1-blue)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)[![DOI](https://zenodo.org/badge/410023495.svg)](https://zenodo.org/badge/latestdoi/410023495)
 
 
 ## Content
