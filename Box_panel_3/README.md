@@ -16,3 +16,5 @@ The third box panel is connected to the main power source and powers the other b
 - [Drill instructions](NC_Drill)
 
 ![Box panel 3](Box_panel_3_soldered.jpg)
+
+Photography credit: EMBL Photolab - Stuart Ingham.
