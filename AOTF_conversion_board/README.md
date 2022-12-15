@@ -19,3 +19,5 @@ We used this board in addition to our electronics box in order to control AOTF/A
 - [Bill of materials](BOM)
 - [Gerber files](Gerber)
 - [Drill instructions](NC_Drill)
+
+![AOTF-CB](AOTF-CB.jpg)
