@@ -40,3 +40,5 @@ Signal A on the left-hand side, signal B on the right-hand side.
  > __Important__: digital to analog conversion (low-pass filter) only happens from A to B, from left to right.
 
 <img src="SCB_channel.jpg" width="600"/>
+
+Photography credit: EMBL Photolab - Stuart Ingham.

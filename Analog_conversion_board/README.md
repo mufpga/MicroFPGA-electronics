@@ -34,3 +34,4 @@ The analog conversion board (ACB) scales down analog voltages from the ranges 0-
 
 <img src="ACB_channel.jpg" width="600"/>
 
+Photography credit: EMBL Photolab - Stuart Ingham.
