@@ -15,3 +15,5 @@ The first box panel is connected to the laser (DO:LX:EN) and PWM signals (DO:LX:
 - [Drill instructions](NC_Drill)
 
 ![Box panel 1](Box_panel_1_soldered.jpg)
+
+Photography credit: EMBL Photolab - Stuart Ingham.
