@@ -43,3 +43,5 @@ We used this board in addition to our electronics box in order to control AOTF/A
 
 
 <img src="AOTF-CB_channel.jpg" width="600"/>
+
+Photography credit: EMBL Photolab - Stuart Ingham.
