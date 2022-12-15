@@ -18,3 +18,5 @@ FPGA connectors and grant access to other FPGA pins that are unused by the custo
 - [Drill instructions](NC_Drill)
 
 ![Custom FPGA shield](FPGA_shield_soldered.jpg)
+
+Photography credit: EMBL Photolab - Stuart Ingham.
